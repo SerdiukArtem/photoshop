@@ -24,6 +24,12 @@
   font-size: 20px;
 }
 
+h1 {
+  border-bottom: 2px solid #ffffff;
+  display: inline-block;
+  line-height: 0.85;
+}
+
 .icons {
   margin: 72px 0 24px 0;
 }
@@ -38,4 +44,8 @@
 
 .Goog {
   margin-right: 45px;
+}
+
+.footer {
+  margin: 60px 0 20px 0;
 }
