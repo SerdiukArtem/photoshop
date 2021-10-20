@@ -1,0 +1,51 @@
+* {
+  margin: 0 auto;
+  background-color: #121116;
+  font-family: "Open Sans"; sans-serif
+}
+
+.sectionwrapp {
+  width: 1920px;
+  height: 1080px;
+}
+
+.section {
+  text-align: center;
+}
+
+.logo {
+  padding: 100px 0 50px 0;
+}
+
+.social {
+  position: relative;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+h1 {
+  border-bottom: 2px solid #ffffff;
+  display: inline-block;
+  line-height: 0.85;
+}
+
+.icons {
+  margin: 72px 0 24px 0;
+}
+
+.Face {
+  margin-right: 45px;
+}
+
+.Twit {
+  margin-right: 45px;
+}
+
+.Goog {
+  margin-right: 45px;
+}
+
+.footer {
+  margin: 60px 0 20px 0;
+}
